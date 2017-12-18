@@ -1,20 +1,26 @@
-# 🎄 Christmas Xcode Theme 🎄
-#### It's that time of the year! 🎅🏻
+# 🎄 Christmas Theme 🎄
+#### It's that time of the year!
 <p align="center" >
 <img src="screenshot.png" alt="Example" title="Example">
 </p>
 
-## Installation ⛄
-
-1. [Download](https://github.com/zntfdr/Christmas-Xcode-Color-Theme/raw/master/Christmas.xccolortheme) (Right click, save as) and move the .dvtcolortheme file into `~/Library/Developer/Xcode/UserData/FontAndColorThemes`. You may have to create the directory if it's not there yet
-2. Restart Xcode
-3. Select the *Christmas* theme in your Xcode 'Preferences -> Fonts & Colors (Tab)'
+## Sublime Text Installation ⛄
+1. Locate your Sublime Text `Packages` folder by using the menu item `Preferences -> Browse Packages...`
+2. [Download](https://github.com/zntfdr/Christmas/raw/master/Themes/Christmas.tmTheme) (Right click, save as) and put the `.tmTheme` file into a new folder named `Christmas - Color Theme`
+2. Move the new folder into Sublime Text's `Packages` directory
+3. Activate the `Christmas` theme in `Preferences -> Color Scheme...`
 4. Enjoy! 🎁
 
-## Installation via [ThemeInstaller](http://www.apptorium.com/products/themeinstaller) ⛄
-1. Click [here](http://www.codethemes.net/theme/christmas)
-2. Install the theme
+## Vim Installation ⛄
+1. [Download](https://github.com/zntfdr/Christmas/raw/master/Themes/Christmas.vim) (Right click, save as) and put the `.vim` file into `~/.vim/colors/`. You may have to create this folder
+2. Add `syntax ok` and `colorscheme Christmas` into your `vim ~/.vimrc`. You may have to create this file
 3. Enjoy! 🎁
 
-## Author 🦌
+## Xcode Installation ⛄
+1. [Download](https://github.com/zntfdr/Christmas/raw/master/Themes/Christmas.xccolortheme) (Right click, save as) and put the `.dvtcolortheme` file into `~/Library/Developer/Xcode/UserData/FontAndColorThemes/`. You may have to create this folder
+2. Restart Xcode
+3. Select the `Christmas` theme in Xcode `Preferences -> Fonts & Colors (Tab)`
+4. Enjoy! 🎁
+
+## Author 🎅🏻
 [Federico Zanetello](https://github.com/zntfdr) ([@zntfdr](https://twitter.com/zntfdr))
