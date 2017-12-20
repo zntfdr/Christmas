@@ -13,7 +13,7 @@
 
 ## Vim Installation ⛄
 1. [Download](https://github.com/zntfdr/Christmas/raw/master/Themes/Christmas.vim) (Right click, save as) and put the `.vim` file into `~/.vim/colors/`. You may have to create this folder
-2. Add `syntax ok` and `colorscheme Christmas` into your `vim ~/.vimrc`. You may have to create this file
+2. Add `syntax on` and `colorscheme Christmas` into your `vim ~/.vimrc`. You may have to create this file
 3. Enjoy! 🎁
 
 ## Xcode Installation ⛄
