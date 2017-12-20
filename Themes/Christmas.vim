@@ -11,7 +11,7 @@ if version > 580
 	endif
 endif
 
-set t_Co=256
+"set t_Co=256
 let g:colors_name = "christmas"
 
 "hi CTagsMember -- no settings --
