@@ -17,7 +17,7 @@
 3. Enjoy! 🎁
 
 ## Xcode Installation ⛄
-1. [Download](https://github.com/zntfdr/Christmas/raw/master/Themes/Christmas.xccolortheme) (Right click, save as) and put the `.dvtcolortheme` file into `~/Library/Developer/Xcode/UserData/FontAndColorThemes/`. You may have to create this folder
+1. [Download](https://github.com/zntfdr/Christmas/raw/master/Themes/Christmas.xccolortheme) (Right click, save as) and put the `.xccolortheme` file into `~/Library/Developer/Xcode/UserData/FontAndColorThemes/`. You may have to create this folder
 2. Restart Xcode
 3. Select the `Christmas` theme in Xcode `Preferences -> Fonts & Colors (Tab)`
 4. Enjoy! 🎁
